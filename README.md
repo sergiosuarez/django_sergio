@@ -1,1 +1,1 @@
-# django_sergio
+# Proyeto curso django_sergio
